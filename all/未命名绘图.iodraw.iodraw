@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="819" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -435,7 +435,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_AwZSWuORN8CE9FfOItH-109" value="动力&lt;div&gt;输出轴&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="760" y="510" width="40" height="40" as="geometry" />
+          <mxGeometry x="760" y="510" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_AwZSWuORN8CE9FfOItH-111" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.544;entryY=0.987;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_AwZSWuORN8CE9FfOItH-109" target="_AwZSWuORN8CE9FfOItH-105">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -445,6 +445,9 @@
               <mxPoint x="700" y="530" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_AwZSWuORN8CE9FfOItH-112" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="315" y="318" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
