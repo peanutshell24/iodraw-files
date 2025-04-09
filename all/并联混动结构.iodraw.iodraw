@@ -10,6 +10,9 @@
         <mxCell id="sv8CwOQ1NXiFd4tJfjBV-1" value="battery" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="260" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="sv8CwOQ1NXiFd4tJfjBV-2" value="ICE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="150" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
