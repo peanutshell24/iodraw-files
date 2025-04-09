@@ -449,8 +449,8 @@
         <mxCell id="_AwZSWuORN8CE9FfOItH-112" value="(a)Transmission-based Drive System" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="230" y="318" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_AwZSWuORN8CE9FfOItH-113" value="(c)双电机独立驱动式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="695" y="318" width="130" height="30" as="geometry" />
+        <mxCell id="_AwZSWuORN8CE9FfOItH-113" value="(c)Dual Motor Independent Drive System" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="640" y="318" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_AwZSWuORN8CE9FfOItH-114" value="(b)无变速器式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="585" width="100" height="30" as="geometry" />
