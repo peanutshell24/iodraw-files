@@ -101,35 +101,38 @@
             <mxPoint x="430" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_AwZSWuORN8CE9FfOItH-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_AwZSWuORN8CE9FfOItH-35" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="390" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_AwZSWuORN8CE9FfOItH-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="_AwZSWuORN8CE9FfOItH-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="334.86" as="sourcePoint" />
-            <mxPoint x="230" y="334.86" as="targetPoint" />
+            <mxPoint y="14.860000000000014" as="sourcePoint" />
+            <mxPoint x="30" y="14.860000000000014" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_AwZSWuORN8CE9FfOItH-27" value="信号连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="320" width="70" height="30" as="geometry" />
+        <mxCell id="_AwZSWuORN8CE9FfOItH-27" value="信号连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_AwZSWuORN8CE9FfOItH-35">
+          <mxGeometry x="20" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_AwZSWuORN8CE9FfOItH-28" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_AwZSWuORN8CE9FfOItH-28" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="_AwZSWuORN8CE9FfOItH-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="334.83" as="sourcePoint" />
-            <mxPoint x="330" y="334.83" as="targetPoint" />
+            <mxPoint x="100" y="14.829999999999984" as="sourcePoint" />
+            <mxPoint x="130" y="14.829999999999984" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_AwZSWuORN8CE9FfOItH-29" value="机械连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="324" y="320" width="70" height="30" as="geometry" />
+        <mxCell id="_AwZSWuORN8CE9FfOItH-29" value="机械连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_AwZSWuORN8CE9FfOItH-35">
+          <mxGeometry x="124" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_AwZSWuORN8CE9FfOItH-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_AwZSWuORN8CE9FfOItH-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="_AwZSWuORN8CE9FfOItH-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="404" y="334.83" as="sourcePoint" />
-            <mxPoint x="430" y="334.83" as="targetPoint" />
+            <mxPoint x="204" y="14.829999999999984" as="sourcePoint" />
+            <mxPoint x="230" y="14.829999999999984" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="430" y="334.83" />
+              <mxPoint x="230" y="14.829999999999984" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_AwZSWuORN8CE9FfOItH-31" value="电气连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="320" width="70" height="30" as="geometry" />
+        <mxCell id="_AwZSWuORN8CE9FfOItH-31" value="电气连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_AwZSWuORN8CE9FfOItH-35">
+          <mxGeometry x="220" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
