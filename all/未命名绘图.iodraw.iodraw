@@ -237,6 +237,15 @@
             <mxPoint x="750" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_AwZSWuORN8CE9FfOItH-62" value="&lt;div&gt;PTO&lt;/div&gt;&lt;div&gt;电动机&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_AwZSWuORN8CE9FfOItH-63" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="_AwZSWuORN8CE9FfOItH-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="280" as="sourcePoint" />
+            <mxPoint x="760" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
