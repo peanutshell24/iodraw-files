@@ -162,7 +162,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sv8CwOQ1NXiFd4tJfjBV-33" value="energy storages" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="140" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sv8CwOQ1NXiFd4tJfjBV-34" value="motors with drives" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="410" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
