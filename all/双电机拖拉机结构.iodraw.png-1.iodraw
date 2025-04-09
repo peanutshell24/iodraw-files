@@ -102,7 +102,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_AwZSWuORN8CE9FfOItH-35" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
-          <mxGeometry x="390" y="620" width="290" height="30" as="geometry" />
+          <mxGeometry x="390" y="620" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_AwZSWuORN8CE9FfOItH-26" value="" style="endArrow=classic;html=1;rounded=0;" parent="_AwZSWuORN8CE9FfOItH-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -131,8 +131,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_AwZSWuORN8CE9FfOItH-31" value="电气连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="_AwZSWuORN8CE9FfOItH-35" vertex="1">
-          <mxGeometry x="220" width="70" height="30" as="geometry" />
+        <mxCell id="_AwZSWuORN8CE9FfOItH-31" value="electrical connection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="_AwZSWuORN8CE9FfOItH-35" vertex="1">
+          <mxGeometry x="190" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_AwZSWuORN8CE9FfOItH-36" value="BMS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="590" y="80" width="50" height="40" as="geometry" />
