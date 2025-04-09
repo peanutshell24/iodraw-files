@@ -98,7 +98,7 @@
         <mxCell id="sv8CwOQ1NXiFd4tJfjBV-19" value="fan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="690" y="160" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sv8CwOQ1NXiFd4tJfjBV-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="sv8CwOQ1NXiFd4tJfjBV-20" value="clutch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="200" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sv8CwOQ1NXiFd4tJfjBV-23" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sv8CwOQ1NXiFd4tJfjBV-20" target="sv8CwOQ1NXiFd4tJfjBV-22">
@@ -121,6 +121,12 @@
         </mxCell>
         <mxCell id="sv8CwOQ1NXiFd4tJfjBV-25" value="gearbox" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="230" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sv8CwOQ1NXiFd4tJfjBV-26" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sv8CwOQ1NXiFd4tJfjBV-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="210" as="sourcePoint" />
+            <mxPoint x="780" y="160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
