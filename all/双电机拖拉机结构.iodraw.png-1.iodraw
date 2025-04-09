@@ -62,7 +62,7 @@
         <mxCell id="_AwZSWuORN8CE9FfOItH-16" value="中央&lt;div&gt;传动&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="450" y="185" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_AwZSWuORN8CE9FfOItH-17" value="驱动轮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="_AwZSWuORN8CE9FfOItH-17" value="Driving Wheel" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="435" y="100" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_AwZSWuORN8CE9FfOItH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_AwZSWuORN8CE9FfOItH-17" target="_AwZSWuORN8CE9FfOItH-17" edge="1">
@@ -80,7 +80,7 @@
             <mxPoint x="300" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_AwZSWuORN8CE9FfOItH-22" value="驱动轮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="_AwZSWuORN8CE9FfOItH-22" value="Driving Wheel" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="435" y="270" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_AwZSWuORN8CE9FfOItH-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_AwZSWuORN8CE9FfOItH-14" target="_AwZSWuORN8CE9FfOItH-15" edge="1">
@@ -189,7 +189,7 @@
         <mxCell id="_AwZSWuORN8CE9FfOItH-48" value="中央&lt;div&gt;传动&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="855" y="155" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_AwZSWuORN8CE9FfOItH-49" value="驱动轮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="_AwZSWuORN8CE9FfOItH-49" value="Driving Wheel" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="840" y="80" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_AwZSWuORN8CE9FfOItH-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_AwZSWuORN8CE9FfOItH-49" target="_AwZSWuORN8CE9FfOItH-49" edge="1">
@@ -404,7 +404,7 @@
             <mxPoint x="705" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_AwZSWuORN8CE9FfOItH-103" value="驱动轮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="_AwZSWuORN8CE9FfOItH-103" value="Driving Wheel" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="840" y="515" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_AwZSWuORN8CE9FfOItH-104" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_AwZSWuORN8CE9FfOItH-98" target="_AwZSWuORN8CE9FfOItH-95" edge="1">
