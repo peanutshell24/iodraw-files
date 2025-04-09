@@ -79,35 +79,26 @@
         <mxCell id="XkO4NkDLEQDJQe1k8bDz-18" value="Drive Shaft" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="540" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XkO4NkDLEQDJQe1k8bDz-20" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="594.71" as="sourcePoint" />
-            <mxPoint x="360" y="594.71" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XkO4NkDLEQDJQe1k8bDz-21" value="Signal connection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="580" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="XkO4NkDLEQDJQe1k8bDz-22" value="" style="endArrow=none;html=1;rounded=0;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="594.8" as="sourcePoint" />
-            <mxPoint x="500" y="594.8" as="targetPoint" />
+            <mxPoint x="400" y="594.8" as="sourcePoint" />
+            <mxPoint x="430" y="594.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XkO4NkDLEQDJQe1k8bDz-23" value="mechanical connection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="580" width="150" height="30" as="geometry" />
+          <mxGeometry x="420" y="580" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XkO4NkDLEQDJQe1k8bDz-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="594.7099999999999" as="sourcePoint" />
-            <mxPoint x="666" y="594.7099999999999" as="targetPoint" />
+            <mxPoint x="570" y="594.7099999999999" as="sourcePoint" />
+            <mxPoint x="596" y="594.7099999999999" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="666" y="594.7099999999999" />
+              <mxPoint x="596" y="594.7099999999999" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XkO4NkDLEQDJQe1k8bDz-25" value="electrical connection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="660" y="580" width="130" height="30" as="geometry" />
+          <mxGeometry x="590" y="580" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
