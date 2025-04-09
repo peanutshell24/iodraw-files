@@ -427,8 +427,8 @@
         </mxCell>
         <mxCell id="_AwZSWuORN8CE9FfOItH-26" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="634.86" as="sourcePoint" />
-            <mxPoint x="420" y="634.86" as="targetPoint" />
+            <mxPoint x="240" y="634.8000000000001" as="sourcePoint" />
+            <mxPoint x="270" y="634.8000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_AwZSWuORN8CE9FfOItH-27" value="Signal connection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -441,7 +441,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_AwZSWuORN8CE9FfOItH-29" value="mechanical connection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="474" y="620" width="150" height="30" as="geometry" />
+          <mxGeometry x="520" y="630" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_AwZSWuORN8CE9FfOItH-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
