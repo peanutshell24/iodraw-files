@@ -432,7 +432,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_AwZSWuORN8CE9FfOItH-27" value="Signal connection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="385" y="620" width="120" height="30" as="geometry" />
+          <mxGeometry x="270" y="620" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_AwZSWuORN8CE9FfOItH-28" value="" style="endArrow=none;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
