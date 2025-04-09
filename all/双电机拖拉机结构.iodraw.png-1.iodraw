@@ -70,8 +70,8 @@
             <mxPoint x="720" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XkO4NkDLEQDJQe1k8bDz-15" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="530" width="66" height="40" as="geometry" />
+        <mxCell id="XkO4NkDLEQDJQe1k8bDz-16" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="430" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
