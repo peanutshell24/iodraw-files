@@ -137,7 +137,7 @@
         <mxCell id="_AwZSWuORN8CE9FfOItH-36" value="电池&lt;div&gt;管理系统&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="110" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_AwZSWuORN8CE9FfOItH-37" value="电动机控制器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_AwZSWuORN8CE9FfOItH-37" value="驱动电动机控制器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="665" y="185" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_AwZSWuORN8CE9FfOItH-38" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_AwZSWuORN8CE9FfOItH-39" target="_AwZSWuORN8CE9FfOItH-36">
