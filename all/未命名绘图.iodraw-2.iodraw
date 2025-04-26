@@ -16,14 +16,14 @@
         <mxCell id="fJFAaakQ_pT4gTYbhhcf-4" value="&lt;b&gt;Rule-based strategies&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="440" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fJFAaakQ_pT4gTYbhhcf-5" value="&lt;b&gt;-Global optimization:&lt;/b&gt;&lt;div&gt;&lt;b&gt;dynamic programming,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;genetic algorithm etc.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-Local optimization:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ECMS, model predictive&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;control etc.&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="fJFAaakQ_pT4gTYbhhcf-5" value="&lt;b&gt;-Global optimization:&lt;/b&gt;&lt;div&gt;dynamic programming,&lt;/div&gt;&lt;div&gt;genetic algorithm etc.&lt;/div&gt;&lt;div&gt;&lt;b&gt;-Local optimization:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;ECMS, model predictive&lt;/div&gt;&lt;div&gt;control etc.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="460" y="220" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="fJFAaakQ_pT4gTYbhhcf-6" value="&lt;div&gt;&lt;b&gt;Optimization-based&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;strategies&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="340" width="130" height="110" as="geometry" />
+          <mxGeometry x="460" y="340" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="fJFAaakQ_pT4gTYbhhcf-7" value="&lt;div&gt;&lt;b&gt;Optimization-based&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;strategies&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="460" width="130" height="110" as="geometry" />
+          <mxGeometry x="460" y="460" width="150" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
