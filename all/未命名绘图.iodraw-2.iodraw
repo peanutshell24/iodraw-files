@@ -22,7 +22,7 @@
         <mxCell id="fJFAaakQ_pT4gTYbhhcf-6" value="&lt;b&gt;-Machine learning:&lt;/b&gt;&lt;div&gt;unsupervised learning.&lt;/div&gt;&lt;div&gt;supervised learning.&lt;/div&gt;&lt;div&gt;reinforcement learning.&lt;div&gt;&lt;b&gt;-Neural networks.&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="340" width="150" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="fJFAaakQ_pT4gTYbhhcf-7" value="&lt;div&gt;&lt;b&gt;Optimization-based&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;strategies&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fJFAaakQ_pT4gTYbhhcf-7" value="&lt;b&gt;-Deterministic control:&lt;/b&gt;&lt;div&gt;power follower control.&lt;/div&gt;&lt;div&gt;thermostat control etc.&lt;div&gt;&lt;b&gt;- Fuzzy logic control.&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="460" width="150" height="110" as="geometry" />
         </mxCell>
       </root>
