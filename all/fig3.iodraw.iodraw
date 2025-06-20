@@ -7,10 +7,10 @@
         <mxCell id="_qp7pdSjUEroSo0UqEHA-1" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;start&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_qp7pdSjUEroSo0UqEHA-9" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;&lt;b&gt;Pure electric mode&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;Motor speed:&lt;/font&gt;&lt;/span&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;&amp;nbsp;2800±300r/min（CVT）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-9" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;&lt;b&gt;Pure electric mode&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;Motor speed:&lt;/font&gt;&lt;/span&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;&amp;nbsp;2800±300rpm（CVT）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="350" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_qp7pdSjUEroSo0UqEHA-11" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;&lt;b&gt;Hybrid drive mode&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;&amp;nbsp;Engine speed:220&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-11" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;&lt;b&gt;Hybrid drive mode&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;&amp;nbsp;Engine speed:2200rpm&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="450" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_qp7pdSjUEroSo0UqEHA-13" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;P&lt;sub&gt;rep&lt;/sub&gt;&amp;lt;25kW&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
