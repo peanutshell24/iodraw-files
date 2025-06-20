@@ -19,10 +19,16 @@
         <mxCell id="_qp7pdSjUEroSo0UqEHA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_qp7pdSjUEroSo0UqEHA-15" target="_qp7pdSjUEroSo0UqEHA-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_qp7pdSjUEroSo0UqEHA-15" target="_qp7pdSjUEroSo0UqEHA-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_qp7pdSjUEroSo0UqEHA-15" value="&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;P&lt;/span&gt;&lt;sub style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;rep&lt;/sub&gt;&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;&amp;lt;40kW&amp;nbsp;&lt;b&gt;&amp;amp;&amp;nbsp;&lt;/b&gt;SOC&amp;gt;0.6&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="207.5" y="340" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_qp7pdSjUEroSo0UqEHA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_qp7pdSjUEroSo0UqEHA-17" target="_qp7pdSjUEroSo0UqEHA-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_qp7pdSjUEroSo0UqEHA-17" target="_qp7pdSjUEroSo0UqEHA-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_qp7pdSjUEroSo0UqEHA-17" value="&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;40kW&lt;b&gt;≤&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;P&lt;sub&gt;rep&lt;/sub&gt;&amp;lt;80kW&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -30,6 +36,11 @@
         </mxCell>
         <mxCell id="_qp7pdSjUEroSo0UqEHA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_qp7pdSjUEroSo0UqEHA-18" target="_qp7pdSjUEroSo0UqEHA-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_qp7pdSjUEroSo0UqEHA-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_qp7pdSjUEroSo0UqEHA-18" value="&lt;font style=&quot;text-align: left; background-color: initial;&quot; face=&quot;Palatino Linotype&quot;&gt;Prep&lt;/font&gt;&lt;font style=&quot;text-align: left; background-color: rgb(255, 255, 255);&quot; face=&quot;Arial, Helvetica, sans-serif&quot;&gt;≥80&lt;/font&gt;&lt;font style=&quot;text-align: left; background-color: initial;&quot; face=&quot;Palatino Linotype&quot;&gt;kW or&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;text-align: left; background-color: initial;&quot; face=&quot;Palatino Linotype&quot;&gt;SOC&amp;lt;0.4&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="540" width="150" height="80" as="geometry" />
