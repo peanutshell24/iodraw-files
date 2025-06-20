@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="--lrl_IErpgE6oovKIuf-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="--lrl_IErpgE6oovKIuf-1" target="--lrl_IErpgE6oovKIuf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="--lrl_IErpgE6oovKIuf-1" value="Encoding" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Palatino Linotype;" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="80" height="60" as="geometry" />
         </mxCell>
@@ -19,7 +22,7 @@
         <mxCell id="--lrl_IErpgE6oovKIuf-5" value="Crossover" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Palatino Linotype;" vertex="1" parent="1">
           <mxGeometry x="640" y="280" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="--lrl_IErpgE6oovKIuf-6" value="Crossover" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Palatino Linotype;" vertex="1" parent="1">
+        <mxCell id="--lrl_IErpgE6oovKIuf-6" value="Mutation" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Palatino Linotype;" vertex="1" parent="1">
           <mxGeometry x="750" y="280" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
