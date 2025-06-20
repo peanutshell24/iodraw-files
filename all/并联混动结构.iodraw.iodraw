@@ -55,16 +55,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sv8CwOQ1NXiFd4tJfjBV-13" value="" style="endArrow=blockThin;html=1;rounded=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endFill=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sv8CwOQ1NXiFd4tJfjBV-20" target="sv8CwOQ1NXiFd4tJfjBV-12" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="200" as="sourcePoint" />
-            <mxPoint x="370" y="200" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="420" y="220" />
-              <mxPoint x="420" y="200" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sv8CwOQ1NXiFd4tJfjBV-12" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="380" y="190" width="20" height="20" as="geometry" />
         </mxCell>
