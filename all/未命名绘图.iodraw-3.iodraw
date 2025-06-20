@@ -79,6 +79,11 @@
         <mxCell id="Ri6b-wGKRBfD-sulNViM-20" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;PTO&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="827" y="230" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Ri6b-wGKRBfD-sulNViM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ri6b-wGKRBfD-sulNViM-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="899.8571428571429" y="109.99999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ri6b-wGKRBfD-sulNViM-21" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;differential&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="860" y="180" width="80" height="30" as="geometry" />
         </mxCell>
