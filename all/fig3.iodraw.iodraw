@@ -1,6 +1,6 @@
 <mxfile host="" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Jo3k3_HusKgTNK5iW4EQ">
-    <mxGraphModel dx="398" dy="232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="_qp7pdSjUEroSo0UqEHA-3" value="&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;25kW&lt;/span&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;≤P&lt;sub&gt;rep&lt;/sub&gt;&amp;lt;33kW&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_qp7pdSjUEroSo0UqEHA-4" value="&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;25kW&lt;/span&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;≤P&lt;sub&gt;rep&lt;/sub&gt;&amp;lt;33kW&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-4" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;Prep&lt;/font&gt;&lt;span style=&quot;color: rgb(71, 71, 71); font-family: Arial, Helvetica, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;≥&lt;/span&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;33kW&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
