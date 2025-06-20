@@ -45,6 +45,14 @@
         <mxCell id="Is64tCI1B7_lkE_v-UtH-10" value="R&lt;sub&gt;s+1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Palatino Linotype;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="540" y="425" width="50" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Is64tCI1B7_lkE_v-UtH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Is64tCI1B7_lkE_v-UtH-11" target="Is64tCI1B7_lkE_v-UtH-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="615" y="560" />
+              <mxPoint x="325" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Is64tCI1B7_lkE_v-UtH-11" value="S&lt;sub&gt;t+1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Palatino Linotype;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="590" y="425" width="50" height="40" as="geometry" />
         </mxCell>
