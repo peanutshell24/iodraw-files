@@ -12,7 +12,7 @@
         <mxCell id="fJFAaakQ_pT4gTYbhhcf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="fJFAaakQ_pT4gTYbhhcf-1" target="fJFAaakQ_pT4gTYbhhcf-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fJFAaakQ_pT4gTYbhhcf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;targetPerimeterSpacing=0;jumpStyle=none;strokeWidth=2;fontSize=11;" parent="1" source="fJFAaakQ_pT4gTYbhhcf-1" target="fJFAaakQ_pT4gTYbhhcf-2" edge="1">
+        <mxCell id="fJFAaakQ_pT4gTYbhhcf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;targetPerimeterSpacing=0;jumpStyle=none;strokeWidth=2;fontSize=11;startArrow=block;startFill=1;" parent="1" source="fJFAaakQ_pT4gTYbhhcf-1" target="fJFAaakQ_pT4gTYbhhcf-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fJFAaakQ_pT4gTYbhhcf-1" value="&lt;b&gt;Classification of energy management strategies&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Palatino Linotype;" parent="1" vertex="1">
