@@ -20,7 +20,7 @@
             <mxPoint x="565" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Is64tCI1B7_lkE_v-UtH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.494;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Is64tCI1B7_lkE_v-UtH-3" target="Is64tCI1B7_lkE_v-UtH-11">
+        <mxCell id="Is64tCI1B7_lkE_v-UtH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Is64tCI1B7_lkE_v-UtH-3" target="Is64tCI1B7_lkE_v-UtH-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="615.2857142857142" y="430" as="targetPoint" />
           </mxGeometry>
@@ -38,7 +38,7 @@
           <mxGeometry x="540" y="425" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Is64tCI1B7_lkE_v-UtH-11" value="R&lt;sub&gt;s+1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Palatino Linotype;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="590" y="460" width="50" height="40" as="geometry" />
+          <mxGeometry x="590" y="425" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
