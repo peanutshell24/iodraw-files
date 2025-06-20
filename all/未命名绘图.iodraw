@@ -15,34 +15,34 @@
         <mxCell id="fJFAaakQ_pT4gTYbhhcf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;targetPerimeterSpacing=0;jumpStyle=none;endSize=6;startSize=6;strokeWidth=4;" parent="1" source="fJFAaakQ_pT4gTYbhhcf-1" target="fJFAaakQ_pT4gTYbhhcf-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fJFAaakQ_pT4gTYbhhcf-1" value="&lt;b&gt;Classification of energy management strategies&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fJFAaakQ_pT4gTYbhhcf-1" value="&lt;b&gt;Classification of energy management strategies&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="100" y="350" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fJFAaakQ_pT4gTYbhhcf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;" parent="1" source="fJFAaakQ_pT4gTYbhhcf-2" target="fJFAaakQ_pT4gTYbhhcf-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fJFAaakQ_pT4gTYbhhcf-2" value="&lt;div&gt;&lt;b&gt;Optimization-based&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;strategies&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" parent="1" vertex="1">
+        <mxCell id="fJFAaakQ_pT4gTYbhhcf-2" value="&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Optimization-based&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;strategies&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="280" y="240" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fJFAaakQ_pT4gTYbhhcf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" parent="1" source="fJFAaakQ_pT4gTYbhhcf-3" target="fJFAaakQ_pT4gTYbhhcf-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fJFAaakQ_pT4gTYbhhcf-3" value="&lt;b&gt;Artificial intelligence&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fJFAaakQ_pT4gTYbhhcf-3" value="&lt;b&gt;Artificial intelligence&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="280" y="350" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fJFAaakQ_pT4gTYbhhcf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" parent="1" source="fJFAaakQ_pT4gTYbhhcf-4" target="fJFAaakQ_pT4gTYbhhcf-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fJFAaakQ_pT4gTYbhhcf-4" value="&lt;b&gt;Rule-based strategies&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fJFAaakQ_pT4gTYbhhcf-4" value="&lt;b&gt;Rule-based strategies&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="280" y="450" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fJFAaakQ_pT4gTYbhhcf-5" value="&lt;b&gt;-Global optimization:&lt;/b&gt;&lt;div&gt;dynamic programming,&lt;/div&gt;&lt;div&gt;genetic algorithm etc.&lt;/div&gt;&lt;div&gt;&lt;b&gt;-Local optimization:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;ECMS, model predictive&lt;/div&gt;&lt;div&gt;control etc.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="460" y="240" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="fJFAaakQ_pT4gTYbhhcf-6" value="&lt;b&gt;-Machine learning:&lt;/b&gt;&lt;div&gt;unsupervised learning.&lt;/div&gt;&lt;div&gt;supervised learning.&lt;/div&gt;&lt;div&gt;reinforcement learning.&lt;div&gt;&lt;b&gt;-Neural networks.&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fJFAaakQ_pT4gTYbhhcf-6" value="&lt;b&gt;-Machine learning:&lt;/b&gt;&lt;div&gt;unsupervised learning.&lt;/div&gt;&lt;div&gt;supervised learning.&lt;/div&gt;&lt;div&gt;reinforcement learning.&lt;div&gt;&lt;b&gt;-Neural networks.&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="460" y="350" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fJFAaakQ_pT4gTYbhhcf-7" value="&lt;b&gt;-Deterministic control:&lt;/b&gt;&lt;div&gt;power follower control.&lt;/div&gt;&lt;div&gt;thermostat control etc.&lt;div&gt;&lt;b&gt;- Fuzzy logic control.&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fJFAaakQ_pT4gTYbhhcf-7" value="&lt;b&gt;-Deterministic control:&lt;/b&gt;&lt;div&gt;power follower control.&lt;/div&gt;&lt;div&gt;thermostat control etc.&lt;div&gt;&lt;b&gt;- Fuzzy logic control.&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="460" y="450" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
