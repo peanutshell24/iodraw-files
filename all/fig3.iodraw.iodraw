@@ -22,7 +22,7 @@
         <mxCell id="_qp7pdSjUEroSo0UqEHA-17" value="&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;40kW&lt;b&gt;≤&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;P&lt;sub&gt;rep&lt;/sub&gt;&amp;lt;80kW&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="203.75" y="440" width="172.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_qp7pdSjUEroSo0UqEHA-18" value="&lt;font style=&quot;text-align: left; background-color: initial;&quot; face=&quot;Palatino Linotype&quot;&gt;Prep&lt;/font&gt;&lt;font style=&quot;text-align: left; background-color: rgb(255, 255, 255);&quot; face=&quot;Arial, Helvetica, sans-serif&quot;&gt;≥80&lt;/font&gt;&lt;font style=&quot;text-align: left; background-color: initial;&quot; face=&quot;Palatino Linotype&quot;&gt;kW&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-18" value="&lt;font style=&quot;text-align: left; background-color: initial;&quot; face=&quot;Palatino Linotype&quot;&gt;Prep&lt;/font&gt;&lt;font style=&quot;text-align: left; background-color: rgb(255, 255, 255);&quot; face=&quot;Arial, Helvetica, sans-serif&quot;&gt;≥80&lt;/font&gt;&lt;font style=&quot;text-align: left; background-color: initial;&quot; face=&quot;Palatino Linotype&quot;&gt;kW or&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;text-align: left; background-color: initial;&quot; face=&quot;Palatino Linotype&quot;&gt;SOC&amp;lt;0.4&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="540" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
