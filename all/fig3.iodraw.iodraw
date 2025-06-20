@@ -1,46 +1,46 @@
 <mxfile host="" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Jo3k3_HusKgTNK5iW4EQ">
-    <mxGraphModel dx="819" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_qp7pdSjUEroSo0UqEHA-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_qp7pdSjUEroSo0UqEHA-1" target="_qp7pdSjUEroSo0UqEHA-15">
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="_qp7pdSjUEroSo0UqEHA-1" target="_qp7pdSjUEroSo0UqEHA-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_qp7pdSjUEroSo0UqEHA-1" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;start&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-1" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;start&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="245" y="240" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_qp7pdSjUEroSo0UqEHA-9" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;&lt;b&gt;Pure electric mode&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;Motor speed:&lt;/font&gt;&lt;/span&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;&amp;nbsp;2800±300rpm（CVT）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-9" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;&lt;b&gt;Pure electric mode&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;Motor speed:&lt;/font&gt;&lt;/span&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;&amp;nbsp;2800±300rpm（CVT）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="430" y="350" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_qp7pdSjUEroSo0UqEHA-11" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;&lt;b&gt;Hybrid drive mode&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;&amp;nbsp;Engine speed:&amp;nbsp; &amp;nbsp; 2200rpm&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;Motor speed:&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;Dynamic compensation&lt;/font&gt;&lt;/span&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-11" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;&lt;b&gt;Hybrid drive mode&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;&amp;nbsp;Engine speed:&amp;nbsp; &amp;nbsp; 2200rpm&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;Motor speed:&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;Dynamic compensation&lt;/font&gt;&lt;/span&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="430" y="450" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_qp7pdSjUEroSo0UqEHA-13" value="&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;&lt;b&gt;Engine&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;&lt;b&gt;&amp;nbsp;main drive mode&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;Diesel engine speed: 1700~2200rpm (CVT deceleration ratio)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-13" value="&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;&lt;b&gt;Engine&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;&lt;b&gt;&amp;nbsp;main drive mode&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;Diesel engine speed: 1700~2200rpm (CVT deceleration ratio)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="430" y="550" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_qp7pdSjUEroSo0UqEHA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_qp7pdSjUEroSo0UqEHA-15" target="_qp7pdSjUEroSo0UqEHA-9">
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="_qp7pdSjUEroSo0UqEHA-15" target="_qp7pdSjUEroSo0UqEHA-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_qp7pdSjUEroSo0UqEHA-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_qp7pdSjUEroSo0UqEHA-15" target="_qp7pdSjUEroSo0UqEHA-17">
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="_qp7pdSjUEroSo0UqEHA-15" target="_qp7pdSjUEroSo0UqEHA-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_qp7pdSjUEroSo0UqEHA-15" value="&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;P&lt;/span&gt;&lt;sub style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;rep&lt;/sub&gt;&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;&amp;lt;40kW&amp;nbsp;&lt;b&gt;&amp;amp;&amp;nbsp;&lt;/b&gt;SOC&amp;gt;0.6&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-15" value="&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;P&lt;/span&gt;&lt;sub style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;rep&lt;/sub&gt;&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;&amp;lt;40kW&amp;nbsp;&lt;b&gt;&amp;amp;&amp;nbsp;&lt;/b&gt;SOC&amp;gt;0.6&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="207.5" y="340" width="165" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_qp7pdSjUEroSo0UqEHA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_qp7pdSjUEroSo0UqEHA-17" target="_qp7pdSjUEroSo0UqEHA-11">
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="_qp7pdSjUEroSo0UqEHA-17" target="_qp7pdSjUEroSo0UqEHA-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_qp7pdSjUEroSo0UqEHA-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_qp7pdSjUEroSo0UqEHA-17" target="_qp7pdSjUEroSo0UqEHA-18">
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="_qp7pdSjUEroSo0UqEHA-17" target="_qp7pdSjUEroSo0UqEHA-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_qp7pdSjUEroSo0UqEHA-17" value="&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;40kW&lt;b&gt;≤&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;P&lt;sub&gt;rep&lt;/sub&gt;&amp;lt;80kW&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-17" value="&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;40kW&lt;b&gt;≤&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;P&lt;sub&gt;rep&lt;/sub&gt;&amp;lt;80kW&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="203.75" y="440" width="172.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_qp7pdSjUEroSo0UqEHA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_qp7pdSjUEroSo0UqEHA-18" target="_qp7pdSjUEroSo0UqEHA-13">
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="_qp7pdSjUEroSo0UqEHA-18" target="_qp7pdSjUEroSo0UqEHA-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_qp7pdSjUEroSo0UqEHA-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_qp7pdSjUEroSo0UqEHA-18">
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="_qp7pdSjUEroSo0UqEHA-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="310" as="targetPoint" />
             <Array as="points">
@@ -49,7 +49,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_qp7pdSjUEroSo0UqEHA-18" value="&lt;font style=&quot;text-align: left; background-color: initial;&quot; face=&quot;Palatino Linotype&quot;&gt;Prep&lt;/font&gt;&lt;font style=&quot;text-align: left; background-color: rgb(255, 255, 255);&quot; face=&quot;Arial, Helvetica, sans-serif&quot;&gt;≥80&lt;/font&gt;&lt;font style=&quot;text-align: left; background-color: initial;&quot; face=&quot;Palatino Linotype&quot;&gt;kW or&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;text-align: left; background-color: initial;&quot; face=&quot;Palatino Linotype&quot;&gt;SOC&amp;lt;0.4&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-18" value="&lt;font style=&quot;text-align: left; background-color: initial;&quot; face=&quot;Palatino Linotype&quot;&gt;Prep&lt;/font&gt;&lt;font style=&quot;text-align: left; background-color: rgb(255, 255, 255);&quot; face=&quot;Arial, Helvetica, sans-serif&quot;&gt;≥80&lt;/font&gt;&lt;font style=&quot;text-align: left; background-color: initial;&quot; face=&quot;Palatino Linotype&quot;&gt;kW or&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;text-align: left; background-color: initial;&quot; face=&quot;Palatino Linotype&quot;&gt;SOC&amp;lt;0.4&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="215" y="540" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
