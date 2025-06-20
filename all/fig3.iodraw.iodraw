@@ -12,7 +12,7 @@
         </mxCell>
         <mxCell id="_qp7pdSjUEroSo0UqEHA-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_qp7pdSjUEroSo0UqEHA-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="299.9999999999999" as="targetPoint" />
+            <mxPoint x="340" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_qp7pdSjUEroSo0UqEHA-9" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;&lt;b&gt;Pure electric mode&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;Motor speed:&lt;/font&gt;&lt;/span&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;&amp;nbsp;2800±300rpm（CVT）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
