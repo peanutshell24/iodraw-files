@@ -23,13 +23,13 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="190" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="345" y="165" />
-              <mxPoint x="345" y="190" />
+              <mxPoint x="380" y="190" />
+              <mxPoint x="380" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7iOJJNfd7BXjoUiYYo0e-8" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;Swarm size&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;Particle dimension&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;The number of iterations&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;Inertia weights&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;Learning factor&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;Iteration step length&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="100" width="140" height="130" as="geometry" />
+          <mxGeometry x="420" y="60" width="140" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
