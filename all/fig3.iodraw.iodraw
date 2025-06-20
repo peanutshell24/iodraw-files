@@ -10,10 +10,10 @@
         <mxCell id="_qp7pdSjUEroSo0UqEHA-2" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;P&lt;sub&gt;rep&lt;/sub&gt;&amp;lt;25kW&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_qp7pdSjUEroSo0UqEHA-3" value="&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;25kW≤&lt;/span&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;P&lt;sub&gt;rep&lt;/sub&gt;&amp;lt;33kW&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-3" value="&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;25kW&lt;b&gt;≤&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;P&lt;sub&gt;rep&lt;/sub&gt;&amp;lt;33kW&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_qp7pdSjUEroSo0UqEHA-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;Palatino Linotype&quot;&gt;Prep&lt;/font&gt;&lt;font face=&quot;Arial, Helvetica, sans-serif&quot; style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;≥&lt;/font&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;Palatino Linotype&quot;&gt;33kW&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;background-color: initial; font-size: 12px;&quot; face=&quot;Palatino Linotype&quot;&gt;Prep&lt;/font&gt;&lt;font face=&quot;Arial, Helvetica, sans-serif&quot; style=&quot;font-size: 12px; background-color: rgb(255, 255, 255);&quot;&gt;≥&lt;/font&gt;&lt;font style=&quot;background-color: initial; font-size: 12px;&quot; face=&quot;Palatino Linotype&quot;&gt;33kW&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
