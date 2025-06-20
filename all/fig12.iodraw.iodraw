@@ -37,8 +37,8 @@
         <mxCell id="Is64tCI1B7_lkE_v-UtH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Is64tCI1B7_lkE_v-UtH-10" target="Is64tCI1B7_lkE_v-UtH-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="565" y="520" />
-              <mxPoint x="375" y="520" />
+              <mxPoint x="565" y="490" />
+              <mxPoint x="375" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -48,8 +48,8 @@
         <mxCell id="Is64tCI1B7_lkE_v-UtH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Is64tCI1B7_lkE_v-UtH-11" target="Is64tCI1B7_lkE_v-UtH-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="615" y="560" />
-              <mxPoint x="325" y="560" />
+              <mxPoint x="615" y="540" />
+              <mxPoint x="325" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
