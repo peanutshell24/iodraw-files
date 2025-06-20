@@ -79,7 +79,7 @@
         <mxCell id="Ri6b-wGKRBfD-sulNViM-20" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;PTO&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="827" y="230" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ri6b-wGKRBfD-sulNViM-21" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;PTO&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Ri6b-wGKRBfD-sulNViM-21" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;differential&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="860" y="180" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
