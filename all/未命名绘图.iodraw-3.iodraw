@@ -27,8 +27,11 @@
         <mxCell id="o6YVxPl8uVxAZIXrkJBO-5" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;state3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="210" y="390" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="o6YVxPl8uVxAZIXrkJBO-8" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;Action1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="o6YVxPl8uVxAZIXrkJBO-8" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;Action2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="350" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o6YVxPl8uVxAZIXrkJBO-9" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;Action1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="450" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
