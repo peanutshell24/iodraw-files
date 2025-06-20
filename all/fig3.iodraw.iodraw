@@ -10,7 +10,7 @@
         <mxCell id="_qp7pdSjUEroSo0UqEHA-1" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;start&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="245" y="240" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_qp7pdSjUEroSo0UqEHA-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="_qp7pdSjUEroSo0UqEHA-9">
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="_qp7pdSjUEroSo0UqEHA-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="310" as="targetPoint" />
             <Array as="points">
@@ -22,8 +22,18 @@
         <mxCell id="_qp7pdSjUEroSo0UqEHA-9" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;&lt;b&gt;Pure electric mode&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;Motor speed:&lt;/font&gt;&lt;/span&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;&amp;nbsp;2800±300rpm（CVT）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="430" y="350" width="220" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_qp7pdSjUEroSo0UqEHA-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_qp7pdSjUEroSo0UqEHA-11" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;&lt;b&gt;Hybrid drive mode&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;&amp;nbsp;Engine speed:&amp;nbsp; &amp;nbsp; 2200rpm&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;Motor speed:&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;Dynamic compensation&lt;/font&gt;&lt;/span&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="430" y="450" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_qp7pdSjUEroSo0UqEHA-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="480" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_qp7pdSjUEroSo0UqEHA-13" value="&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;&lt;b&gt;Engine&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;&lt;b&gt;&amp;nbsp;main drive mode&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;Diesel engine speed: 1700~2200rpm (CVT deceleration ratio)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="430" y="550" width="220" height="60" as="geometry" />
