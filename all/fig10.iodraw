@@ -49,11 +49,14 @@
         <mxCell id="7iOJJNfd7BXjoUiYYo0e-10" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;The historical optimal location of&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;the individual&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;The historical optimal location of&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;the group&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;The historical optimal adaptation&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;value of the individual&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;Historical optimal adaptation value&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;of the population&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="225" width="196" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="7iOJJNfd7BXjoUiYYo0e-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7iOJJNfd7BXjoUiYYo0e-13" target="7iOJJNfd7BXjoUiYYo0e-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7iOJJNfd7BXjoUiYYo0e-13" value="Whether the end&lt;div&gt;condition is met&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135" y="410" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7iOJJNfd7BXjoUiYYo0e-16" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;Initialize the position and velocity of each particle randomly&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="270" width="140" height="70" as="geometry" />
+        <mxCell id="7iOJJNfd7BXjoUiYYo0e-16" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;Updates the velocity&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;and position of each&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;particle&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="515" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
