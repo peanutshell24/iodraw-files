@@ -16,7 +16,7 @@
         <mxCell id="_qp7pdSjUEroSo0UqEHA-13" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;P&lt;sub&gt;rep&lt;/sub&gt;&amp;lt;25kW&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_qp7pdSjUEroSo0UqEHA-15" value="&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;P&lt;/span&gt;&lt;sub style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;rep&lt;/sub&gt;&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;&amp;lt;40kW&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_qp7pdSjUEroSo0UqEHA-15" value="&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;P&lt;/span&gt;&lt;sub style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;rep&lt;/sub&gt;&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;&amp;lt;40kW&lt;b&gt;&amp;amp;&lt;/b&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="340" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_qp7pdSjUEroSo0UqEHA-17" value="&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;25kW&lt;b&gt;≤&lt;/b&gt;&lt;/span&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;P&lt;sub&gt;rep&lt;/sub&gt;&amp;lt;33kW&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
