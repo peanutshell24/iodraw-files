@@ -56,8 +56,8 @@
         <mxCell id="Is64tCI1B7_lkE_v-UtH-11" value="S&lt;sub&gt;t+1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Palatino Linotype;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="590" y="425" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Is64tCI1B7_lkE_v-UtH-14" value="action" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Palatino Linotype;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="435" y="440" width="70" height="30" as="geometry" />
+        <mxCell id="Is64tCI1B7_lkE_v-UtH-14" value="Reward" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Palatino Linotype;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="430" y="440" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Is64tCI1B7_lkE_v-UtH-15" value="A&lt;sub style=&quot;font-size: 16px;&quot;&gt;t&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Palatino Linotype;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="450" y="457" width="40" height="40" as="geometry" />
