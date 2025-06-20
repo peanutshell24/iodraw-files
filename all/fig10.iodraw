@@ -16,6 +16,9 @@
         <mxCell id="7iOJJNfd7BXjoUiYYo0e-4" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;Initialize the particle swarm parameter&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="145" y="160" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7iOJJNfd7BXjoUiYYo0e-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7iOJJNfd7BXjoUiYYo0e-6" target="7iOJJNfd7BXjoUiYYo0e-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7iOJJNfd7BXjoUiYYo0e-6" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;Initialize the position and velocity of each particle randomly&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="142.5" y="260" width="135" height="50" as="geometry" />
         </mxCell>
@@ -32,7 +35,7 @@
           <mxGeometry x="420" y="70" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="7iOJJNfd7BXjoUiYYo0e-10" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;Swarm size&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;Particle dimension&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;The number of iterations&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;Inertia weights&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;Learning factor&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;Iteration step length&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="80" width="140" height="130" as="geometry" />
+          <mxGeometry x="420" y="220" width="140" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
