@@ -39,7 +39,7 @@
         </mxCell>
         <mxCell id="7iOJJNfd7BXjoUiYYo0e-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7iOJJNfd7BXjoUiYYo0e-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="364.66666666666674" as="targetPoint" />
+            <mxPoint x="210" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7iOJJNfd7BXjoUiYYo0e-10" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;The historical optimal location of&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;the individual&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;The historical optimal location of&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;the group&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;The historical optimal adaptation&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;value of the individual&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;Historical optimal adaptation value&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Palatino Linotype&quot;&gt;of the population&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
