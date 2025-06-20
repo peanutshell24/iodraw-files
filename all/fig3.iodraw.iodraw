@@ -43,6 +43,10 @@
         <mxCell id="_qp7pdSjUEroSo0UqEHA-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_qp7pdSjUEroSo0UqEHA-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="580" />
+              <mxPoint x="160" y="310" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_qp7pdSjUEroSo0UqEHA-18" value="&lt;font style=&quot;text-align: left; background-color: initial;&quot; face=&quot;Palatino Linotype&quot;&gt;Prep&lt;/font&gt;&lt;font style=&quot;text-align: left; background-color: rgb(255, 255, 255);&quot; face=&quot;Arial, Helvetica, sans-serif&quot;&gt;≥80&lt;/font&gt;&lt;font style=&quot;text-align: left; background-color: initial;&quot; face=&quot;Palatino Linotype&quot;&gt;kW or&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;text-align: left; background-color: initial;&quot; face=&quot;Palatino Linotype&quot;&gt;SOC&amp;lt;0.4&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
