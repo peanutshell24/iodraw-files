@@ -11,10 +11,10 @@
           <mxGeometry x="470" y="350" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_qp7pdSjUEroSo0UqEHA-11" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;P&lt;sub&gt;rep&lt;/sub&gt;&amp;lt;25kW&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="460" width="150" height="60" as="geometry" />
+          <mxGeometry x="470" y="450" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_qp7pdSjUEroSo0UqEHA-13" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;P&lt;sub&gt;rep&lt;/sub&gt;&amp;lt;25kW&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="550" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_qp7pdSjUEroSo0UqEHA-15" value="&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;P&lt;/span&gt;&lt;sub style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;rep&lt;/sub&gt;&lt;span style=&quot;font-family: &amp;quot;Palatino Linotype&amp;quot;;&quot;&gt;&amp;lt;40kW&amp;nbsp;&lt;b&gt;&amp;amp;&amp;nbsp;&lt;/b&gt;SOC&amp;gt;0.6&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="207.5" y="340" width="165" height="80" as="geometry" />
