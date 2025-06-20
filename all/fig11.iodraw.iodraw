@@ -8,13 +8,13 @@
           <mxGeometry x="200" y="280" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="--lrl_IErpgE6oovKIuf-2" value="Initialize Population" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Palatino Linotype;" vertex="1" parent="1">
-          <mxGeometry x="320" y="280" width="80" height="60" as="geometry" />
+          <mxGeometry x="310" y="280" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="--lrl_IErpgE6oovKIuf-3" value="&lt;div&gt;Evaluate&lt;/div&gt;&lt;div&gt;Fitness of individuals&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Palatino Linotype;" vertex="1" parent="1">
-          <mxGeometry x="440" y="280" width="80" height="60" as="geometry" />
+          <mxGeometry x="420" y="280" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="--lrl_IErpgE6oovKIuf-4" value="&lt;div&gt;Evaluate&lt;/div&gt;&lt;div&gt;Fitness of individuals&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Palatino Linotype;" vertex="1" parent="1">
-          <mxGeometry x="550" y="280" width="80" height="60" as="geometry" />
+        <mxCell id="--lrl_IErpgE6oovKIuf-4" value="Selection" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Palatino Linotype;" vertex="1" parent="1">
+          <mxGeometry x="530" y="280" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
