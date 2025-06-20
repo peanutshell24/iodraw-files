@@ -35,8 +35,13 @@
         <mxCell id="Ri6b-wGKRBfD-sulNViM-8" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;motor2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="500" y="200" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Ri6b-wGKRBfD-sulNViM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ri6b-wGKRBfD-sulNViM-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ri6b-wGKRBfD-sulNViM-12" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="90" width="60" height="190" as="geometry" />
+          <mxGeometry x="650" y="100" width="60" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
