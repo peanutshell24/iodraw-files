@@ -35,8 +35,8 @@
         <mxCell id="Ri6b-wGKRBfD-sulNViM-8" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;motor2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="500" y="200" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ri6b-wGKRBfD-sulNViM-12" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="90" width="60" height="210" as="geometry" />
+        <mxCell id="Ri6b-wGKRBfD-sulNViM-12" value="gear box" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="90" width="80" height="210" as="geometry" />
         </mxCell>
         <mxCell id="Ri6b-wGKRBfD-sulNViM-14" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="635" y="165" width="210" height="60" as="geometry" />
