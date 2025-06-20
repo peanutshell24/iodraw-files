@@ -16,13 +16,13 @@
         <mxCell id="sv8CwOQ1NXiFd4tJfjBV-1" value="battery" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Palatino Linotype;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="255" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sv8CwOQ1NXiFd4tJfjBV-4" value="" style="group;fontFamily=Palatino Linotype;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
+        <mxCell id="sv8CwOQ1NXiFd4tJfjBV-4" value="" style="group;fontFamily=Palatino Linotype;strokeWidth=2;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="280" y="163.75" width="90" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="sv8CwOQ1NXiFd4tJfjBV-2" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;ICE&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="sv8CwOQ1NXiFd4tJfjBV-4" vertex="1">
           <mxGeometry width="90" height="72.5" as="geometry" />
         </mxCell>
-        <mxCell id="sv8CwOQ1NXiFd4tJfjBV-3" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;ECU&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="sv8CwOQ1NXiFd4tJfjBV-4" vertex="1">
+        <mxCell id="sv8CwOQ1NXiFd4tJfjBV-3" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;ECU&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="sv8CwOQ1NXiFd4tJfjBV-4" vertex="1">
           <mxGeometry x="60" y="36.25" width="30" height="36.25" as="geometry" />
         </mxCell>
         <mxCell id="sv8CwOQ1NXiFd4tJfjBV-5" value="" style="group;fontFamily=Palatino Linotype;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
