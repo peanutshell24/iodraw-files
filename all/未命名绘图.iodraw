@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="ariDlcsFzls8tVLklo5r">
-    <mxGraphModel dx="683" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
           <mxGeometry x="460" y="350" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fJFAaakQ_pT4gTYbhhcf-7" value="&lt;b&gt;-Deterministic control:&lt;/b&gt;&lt;div&gt;power follower control.&lt;/div&gt;&lt;div&gt;thermostat control etc.&lt;div&gt;&lt;b&gt;- Fuzzy logic control.&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="450" width="150" height="80" as="geometry" />
+          <mxGeometry x="460" y="450" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
