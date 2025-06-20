@@ -38,7 +38,7 @@
         <mxCell id="Ri6b-wGKRBfD-sulNViM-12" value="gear box" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="90" width="80" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="Ri6b-wGKRBfD-sulNViM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ri6b-wGKRBfD-sulNViM-14">
+        <mxCell id="Ri6b-wGKRBfD-sulNViM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ri6b-wGKRBfD-sulNViM-14" target="Ri6b-wGKRBfD-sulNViM-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="850" y="247.71428571428567" as="targetPoint" />
           </mxGeometry>
@@ -69,6 +69,9 @@
             <mxPoint x="580" y="224.85999999999999" as="sourcePoint" />
             <mxPoint x="649" y="224.85999999999999" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ri6b-wGKRBfD-sulNViM-20" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;motor1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="852.5" y="220" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
