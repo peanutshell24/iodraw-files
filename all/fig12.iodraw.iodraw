@@ -4,11 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Is64tCI1B7_lkE_v-UtH-1" value="Agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Is64tCI1B7_lkE_v-UtH-1" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;Agent&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="280" width="100" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Is64tCI1B7_lkE_v-UtH-2" value="Agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="290" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
