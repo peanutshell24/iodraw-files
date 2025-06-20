@@ -62,11 +62,11 @@
         <mxCell id="Is64tCI1B7_lkE_v-UtH-15" value="&lt;sub style=&quot;font-size: 16px;&quot;&gt;Rt&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Palatino Linotype;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="450" y="457" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Is64tCI1B7_lkE_v-UtH-16" value="Reward" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Palatino Linotype;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="440" y="450" width="80" height="30" as="geometry" />
+        <mxCell id="Is64tCI1B7_lkE_v-UtH-16" value="State" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Palatino Linotype;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="440" y="497" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Is64tCI1B7_lkE_v-UtH-17" value="&lt;sub style=&quot;font-size: 16px;&quot;&gt;Rt&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Palatino Linotype;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="460" y="467" width="40" height="40" as="geometry" />
+          <mxGeometry x="450" y="514" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
