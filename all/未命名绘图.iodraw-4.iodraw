@@ -260,11 +260,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZeANIJidLOp0J9_UrxKR-66" value="" style="group;strokeWidth=2;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="550" y="470" width="40" height="50" as="geometry" />
+          <mxGeometry x="550" y="470" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZeANIJidLOp0J9_UrxKR-67" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="ZeANIJidLOp0J9_UrxKR-66">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="50" as="sourcePoint" />
+            <mxPoint x="20" y="60" as="sourcePoint" />
             <mxPoint x="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -276,13 +276,13 @@
         </mxCell>
         <mxCell id="ZeANIJidLOp0J9_UrxKR-69" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="ZeANIJidLOp0J9_UrxKR-66">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="50" as="sourcePoint" />
-            <mxPoint x="40" y="50" as="targetPoint" />
+            <mxPoint y="60" as="sourcePoint" />
+            <mxPoint x="40" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZeANIJidLOp0J9_UrxKR-70" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ZeANIJidLOp0J9_UrxKR-70" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="500" as="sourcePoint" />
+            <mxPoint x="480" y="500" as="sourcePoint" />
             <mxPoint x="460" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
