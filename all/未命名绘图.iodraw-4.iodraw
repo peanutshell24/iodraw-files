@@ -637,6 +637,27 @@
             <mxPoint x="680" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ZeANIJidLOp0J9_UrxKR-160" value="" style="group;strokeWidth=2;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="470" y="680" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeANIJidLOp0J9_UrxKR-161" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="ZeANIJidLOp0J9_UrxKR-160">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="50" as="sourcePoint" />
+            <mxPoint x="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeANIJidLOp0J9_UrxKR-162" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="ZeANIJidLOp0J9_UrxKR-160">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeANIJidLOp0J9_UrxKR-163" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="ZeANIJidLOp0J9_UrxKR-160">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="50" as="sourcePoint" />
+            <mxPoint x="40" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
