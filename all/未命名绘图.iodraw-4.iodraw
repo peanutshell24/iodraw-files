@@ -94,7 +94,7 @@
             <mxPoint x="42" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZeANIJidLOp0J9_UrxKR-23" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#1a1a1a;fillColor=#B3B3B3;gradientColor=default;gradientDirection=radial;" vertex="1" parent="1">
+        <mxCell id="ZeANIJidLOp0J9_UrxKR-23" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#1a1a1a;fillColor=#B3B3B3;gradientColor=#B3B3B3;gradientDirection=east;" vertex="1" parent="1">
           <mxGeometry x="420" y="260" width="10" height="140" as="geometry" />
         </mxCell>
       </root>
