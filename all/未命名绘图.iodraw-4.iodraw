@@ -320,7 +320,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZeANIJidLOp0J9_UrxKR-78" value="" style="group;flipV=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="440" y="550" width="130" height="60" as="geometry" />
+          <mxGeometry x="440" y="540" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZeANIJidLOp0J9_UrxKR-79" value="" style="group;strokeWidth=2;" vertex="1" connectable="0" parent="ZeANIJidLOp0J9_UrxKR-78">
           <mxGeometry width="40" height="60" as="geometry" />
