@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
-    <mxGraphModel dx="2622.5" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2351.5" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -458,6 +458,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="gRPjHzEBh5EhbH_-jHPd-143" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=4;endFill=1;entryX=0.086;entryY=0.971;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.012;exitY=0.605;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="gRPjHzEBh5EhbH_-jHPd-92" source="gRPjHzEBh5EhbH_-jHPd-142">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-99.66" y="-29.90000000000009" as="sourcePoint" />
+            <mxPoint x="-1.4210854715202004e-13" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gRPjHzEBh5EhbH_-jHPd-103" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeWidth=6;" vertex="1" parent="1">
           <mxGeometry x="-290" y="1030" width="210" height="160" as="geometry" />
         </mxCell>
@@ -614,12 +620,6 @@
         </mxCell>
         <mxCell id="gRPjHzEBh5EhbH_-jHPd-142" value="MG/1&lt;div&gt;stator&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Palatino Linotype;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="-150" y="890" width="120" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="gRPjHzEBh5EhbH_-jHPd-143" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=4;endFill=1;entryX=0.086;entryY=0.971;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="gRPjHzEBh5EhbH_-jHPd-140">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-20" y="939.8" as="sourcePoint" />
-            <mxPoint x="-20" y="900" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
