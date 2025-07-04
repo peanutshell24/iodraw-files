@@ -624,10 +624,10 @@
         <mxCell id="gRPjHzEBh5EhbH_-jHPd-145" value="MG/1&lt;div&gt;rotor&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Palatino Linotype;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="270" y="980" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="gRPjHzEBh5EhbH_-jHPd-146" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=4;endFill=1;" edge="1" parent="1">
+        <mxCell id="gRPjHzEBh5EhbH_-jHPd-146" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=4;endFill=1;exitX=0.015;exitY=0.055;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gRPjHzEBh5EhbH_-jHPd-145">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="988" as="sourcePoint" />
-            <mxPoint x="210" y="770" as="targetPoint" />
+            <mxPoint x="250" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
