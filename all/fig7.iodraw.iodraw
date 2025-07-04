@@ -464,7 +464,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gRPjHzEBh5EhbH_-jHPd-115" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="913" width="40" height="40" as="geometry" />
+          <mxGeometry x="-240" y="915" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gRPjHzEBh5EhbH_-jHPd-116" value="-" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-165" y="915" width="30" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
