@@ -660,8 +660,8 @@
         <mxCell id="gRPjHzEBh5EhbH_-jHPd-155" value="DC bus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Palatino Linotype;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="60" y="1295" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gRPjHzEBh5EhbH_-jHPd-156" value="CVT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Palatino Linotype;fontSize=50;" vertex="1" parent="1">
-          <mxGeometry x="220" y="210" width="130" height="70" as="geometry" />
+        <mxCell id="gRPjHzEBh5EhbH_-jHPd-156" value="ENGINE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Palatino Linotype;fontSize=50;" vertex="1" parent="1">
+          <mxGeometry x="-295" y="200" width="220" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
