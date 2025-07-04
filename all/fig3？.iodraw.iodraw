@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="O4K9ksL8h3NW0O6xECoW-1" value="Battery" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Palatino Linotype;" vertex="1" parent="1">
-          <mxGeometry x="580" y="380" width="80" height="90" as="geometry" />
+          <mxGeometry x="600" y="380" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="O4K9ksL8h3NW0O6xECoW-2" value="DC/DC&lt;div&gt;Converter&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Palatino Linotype;" vertex="1" parent="1">
-          <mxGeometry x="700" y="380" width="80" height="90" as="geometry" />
+          <mxGeometry x="710" y="380" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="O4K9ksL8h3NW0O6xECoW-3" value="MG2" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Palatino Linotype;" vertex="1" parent="1">
           <mxGeometry x="820" y="380" width="80" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="O4K9ksL8h3NW0O6xECoW-4" value="MG2" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Palatino Linotype;" vertex="1" parent="1">
-          <mxGeometry x="830" y="390" width="80" height="90" as="geometry" />
+        <mxCell id="O4K9ksL8h3NW0O6xECoW-4" value="MG1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Palatino Linotype;" vertex="1" parent="1">
+          <mxGeometry x="820" y="490" width="80" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
