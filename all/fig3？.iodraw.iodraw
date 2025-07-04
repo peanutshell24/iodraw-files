@@ -14,10 +14,13 @@
           <mxGeometry x="820" y="380" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="O4K9ksL8h3NW0O6xECoW-4" value="MG1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Palatino Linotype;" vertex="1" parent="1">
-          <mxGeometry x="820" y="490" width="80" height="90" as="geometry" />
+          <mxGeometry x="820" y="540" width="80" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="O4K9ksL8h3NW0O6xECoW-5" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#990000;fillStyle=dots;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="O4K9ksL8h3NW0O6xECoW-6" value="MG1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Palatino Linotype;" vertex="1" parent="1">
+          <mxGeometry x="850" y="540" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="O4K9ksL8h3NW0O6xECoW-7" value="MG2" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Palatino Linotype;" vertex="1" parent="1">
+          <mxGeometry x="850" y="380" width="80" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
