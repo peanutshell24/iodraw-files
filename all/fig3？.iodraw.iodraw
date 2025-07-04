@@ -72,8 +72,14 @@
         <mxCell id="O4K9ksL8h3NW0O6xECoW-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="1050" y="405" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="O4K9ksL8h3NW0O6xECoW-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="360" width="30" height="85" as="geometry" />
+        <mxCell id="O4K9ksL8h3NW0O6xECoW-30" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1160" y="275" width="30" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="O4K9ksL8h3NW0O6xECoW-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#999999;" vertex="1" parent="O4K9ksL8h3NW0O6xECoW-30">
+          <mxGeometry y="85" width="30" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="O4K9ksL8h3NW0O6xECoW-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#999999;" vertex="1" parent="O4K9ksL8h3NW0O6xECoW-30">
+          <mxGeometry width="30" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
