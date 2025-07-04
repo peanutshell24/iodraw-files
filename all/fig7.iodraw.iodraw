@@ -612,6 +612,9 @@
         <mxCell id="gRPjHzEBh5EhbH_-jHPd-141" value="CVT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Palatino Linotype;fontSize=50;" vertex="1" parent="1">
           <mxGeometry x="210" y="200" width="130" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="gRPjHzEBh5EhbH_-jHPd-142" value="MG/1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Palatino Linotype;fontSize=48;" vertex="1" parent="1">
+          <mxGeometry x="-165" y="890" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
