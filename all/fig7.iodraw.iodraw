@@ -651,6 +651,9 @@
         <mxCell id="gRPjHzEBh5EhbH_-jHPd-151" value="&lt;div&gt;DRIVER&lt;/div&gt;MG/2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Palatino Linotype;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="775" y="1080" width="170" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="gRPjHzEBh5EhbH_-jHPd-153" value="&lt;div&gt;DRIVER&lt;/div&gt;MG/2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Palatino Linotype;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1060" width="170" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
