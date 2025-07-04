@@ -168,8 +168,8 @@
         <mxCell id="O4K9ksL8h3NW0O6xECoW-75" value="&lt;span style=&quot;font-style: normal;&quot;&gt;HYD&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;LOAD&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Palatino Linotype;fontStyle=3;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1220" y="505" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="O4K9ksL8h3NW0O6xECoW-76" value="N&lt;sub&gt;HYD&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Palatino Linotype;fontStyle=3;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="505" width="70" height="40" as="geometry" />
+        <mxCell id="O4K9ksL8h3NW0O6xECoW-76" value="N&lt;sub&gt;PTO&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Palatino Linotype;fontStyle=3;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="495" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
