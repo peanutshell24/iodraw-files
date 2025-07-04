@@ -136,7 +136,16 @@
           <mxGeometry x="1260" y="600" width="13" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O4K9ksL8h3NW0O6xECoW-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeWidth=3;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1273" y="620" width="40" height="20" as="geometry" />
+          <mxGeometry x="1273" y="620" width="27" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O4K9ksL8h3NW0O6xECoW-53" value="" style="group;strokeWidth=3;fontSize=16;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1180" y="545" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="O4K9ksL8h3NW0O6xECoW-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#999999;strokeWidth=3;fontSize=16;" vertex="1" parent="O4K9ksL8h3NW0O6xECoW-53">
+          <mxGeometry y="65" width="30" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="O4K9ksL8h3NW0O6xECoW-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#999999;strokeWidth=3;fontSize=16;" vertex="1" parent="O4K9ksL8h3NW0O6xECoW-53">
+          <mxGeometry width="30" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
