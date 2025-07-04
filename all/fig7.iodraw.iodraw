@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
-    <mxGraphModel dx="2390" dy="1393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1366" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -315,6 +315,18 @@
         </mxCell>
         <mxCell id="gRPjHzEBh5EhbH_-jHPd-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="30" y="625" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gRPjHzEBh5EhbH_-jHPd-69" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="575" y="380" width="210" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="gRPjHzEBh5EhbH_-jHPd-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#808080;strokeWidth=6;fixedWidth=0;autosize=0;movableLabel=0;treeFolding=0;comic=0;fillStyle=solid;" vertex="1" parent="gRPjHzEBh5EhbH_-jHPd-69">
+          <mxGeometry y="150" width="210" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="gRPjHzEBh5EhbH_-jHPd-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeWidth=6;fillStyle=auto;gradientColor=none;" vertex="1" parent="gRPjHzEBh5EhbH_-jHPd-69">
+          <mxGeometry width="210" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="gRPjHzEBh5EhbH_-jHPd-72" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeWidth=6;" vertex="1" parent="gRPjHzEBh5EhbH_-jHPd-69">
+          <mxGeometry y="400" width="210" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
