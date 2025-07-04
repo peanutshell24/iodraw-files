@@ -265,30 +265,6 @@
             <mxPoint x="690" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gRPjHzEBh5EhbH_-jHPd-28" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="655" y="370" as="sourcePoint" />
-            <mxPoint x="705" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gRPjHzEBh5EhbH_-jHPd-29" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="370" as="sourcePoint" />
-            <mxPoint x="720" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gRPjHzEBh5EhbH_-jHPd-31" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="380" as="sourcePoint" />
-            <mxPoint x="730" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gRPjHzEBh5EhbH_-jHPd-32" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="370" as="sourcePoint" />
-            <mxPoint x="740" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
