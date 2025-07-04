@@ -87,6 +87,18 @@
         <mxCell id="O4K9ksL8h3NW0O6xECoW-32" value="Tractor&lt;div&gt;dynamics&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Palatino Linotype;" vertex="1" parent="1">
           <mxGeometry x="1260" y="275" width="80" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="O4K9ksL8h3NW0O6xECoW-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="1037" y="565" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O4K9ksL8h3NW0O6xECoW-34" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1150" y="300" width="30" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="O4K9ksL8h3NW0O6xECoW-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#999999;" vertex="1" parent="O4K9ksL8h3NW0O6xECoW-34">
+          <mxGeometry y="85" width="30" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="O4K9ksL8h3NW0O6xECoW-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#999999;" vertex="1" parent="O4K9ksL8h3NW0O6xECoW-34">
+          <mxGeometry width="30" height="85" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
