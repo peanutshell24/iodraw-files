@@ -259,10 +259,16 @@
         <mxCell id="gRPjHzEBh5EhbH_-jHPd-20" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=35;fillColor=#000000;" vertex="1" parent="gRPjHzEBh5EhbH_-jHPd-21">
           <mxGeometry y="590" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gRPjHzEBh5EhbH_-jHPd-27" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="gRPjHzEBh5EhbH_-jHPd-27" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="370" as="sourcePoint" />
             <mxPoint x="680" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gRPjHzEBh5EhbH_-jHPd-28" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="380" as="sourcePoint" />
+            <mxPoint x="690" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
