@@ -205,7 +205,7 @@
             <mxPoint x="50.4" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gRPjHzEBh5EhbH_-jHPd-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZeANIJidLOp0J9_UrxKR-49">
+        <mxCell id="gRPjHzEBh5EhbH_-jHPd-3" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#B3B3B3;" vertex="1" parent="ZeANIJidLOp0J9_UrxKR-49">
           <mxGeometry x="-72" y="280" width="120" height="10" as="geometry" />
         </mxCell>
       </root>
