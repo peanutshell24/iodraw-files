@@ -40,14 +40,10 @@
         <mxCell id="O4K9ksL8h3NW0O6xECoW-2" value="DC/DC&lt;div&gt;Converter&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Palatino Linotype;" vertex="1" parent="1">
           <mxGeometry x="740" y="360" width="80" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="O4K9ksL8h3NW0O6xECoW-17" value="" style="endArrow=oval;html=1;rounded=0;endFill=1;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="O4K9ksL8h3NW0O6xECoW-4">
+        <mxCell id="O4K9ksL8h3NW0O6xECoW-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="490" as="sourcePoint" />
-            <mxPoint x="840" y="390" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="917" y="490" />
-              <mxPoint x="840" y="490" />
-            </Array>
+            <mxPoint x="720" y="520" as="sourcePoint" />
+            <mxPoint x="850" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
