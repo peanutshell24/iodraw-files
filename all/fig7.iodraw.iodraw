@@ -648,8 +648,8 @@
             <mxPoint x="790" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gRPjHzEBh5EhbH_-jHPd-151" value="MG/2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Palatino Linotype;fontSize=40;" vertex="1" parent="1">
-          <mxGeometry x="800" y="1105" width="120" height="60" as="geometry" />
+        <mxCell id="gRPjHzEBh5EhbH_-jHPd-151" value="&lt;div&gt;DRIVER&lt;/div&gt;MG/2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Palatino Linotype;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="775" y="1080" width="170" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
