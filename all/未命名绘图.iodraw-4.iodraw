@@ -712,9 +712,6 @@
         <mxCell id="ZeANIJidLOp0J9_UrxKR-193" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#A9C4EB;gradientColor=#FFFFFF;flipV=1;" vertex="1" parent="ZeANIJidLOp0J9_UrxKR-194">
           <mxGeometry y="60" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZeANIJidLOp0J9_UrxKR-199" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;Motor1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="ZeANIJidLOp0J9_UrxKR-194">
-          <mxGeometry x="5" y="45" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ZeANIJidLOp0J9_UrxKR-200" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="220" y="640" width="100" height="120" as="geometry" />
         </mxCell>
@@ -738,6 +735,9 @@
         </mxCell>
         <mxCell id="ZeANIJidLOp0J9_UrxKR-207" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;Motor2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ZeANIJidLOp0J9_UrxKR-204">
           <mxGeometry x="5" y="45" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeANIJidLOp0J9_UrxKR-199" value="&lt;font face=&quot;Palatino Linotype&quot;&gt;Motor1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="495" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
