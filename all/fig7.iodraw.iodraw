@@ -615,10 +615,10 @@
         <mxCell id="gRPjHzEBh5EhbH_-jHPd-142" value="MG/1&lt;div&gt;stator&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Palatino Linotype;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="-150" y="890" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="gRPjHzEBh5EhbH_-jHPd-143" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="gRPjHzEBh5EhbH_-jHPd-143" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-10" y="955" as="sourcePoint" />
-            <mxPoint x="40" y="905" as="targetPoint" />
+            <mxPoint x="-480" y="1030" as="sourcePoint" />
+            <mxPoint x="-350" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
