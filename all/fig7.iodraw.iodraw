@@ -484,7 +484,7 @@
             <mxPoint x="-120" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gRPjHzEBh5EhbH_-jHPd-120" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="gRPjHzEBh5EhbH_-jHPd-120" value="" style="shape=link;html=1;rounded=0;strokeColor=default;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="-120" y="990" as="sourcePoint" />
             <mxPoint x="-20" y="990" as="targetPoint" />
