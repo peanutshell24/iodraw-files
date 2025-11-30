@@ -7,6 +7,9 @@
         <mxCell id="z8dSxOIZG4uBew8tEcZY-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z8dSxOIZG4uBew8tEcZY-1" target="z8dSxOIZG4uBew8tEcZY-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="z8dSxOIZG4uBew8tEcZY-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z8dSxOIZG4uBew8tEcZY-1" target="z8dSxOIZG4uBew8tEcZY-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z8dSxOIZG4uBew8tEcZY-1" value="需求分析与文献调研" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="-60" width="120" height="50" as="geometry" />
         </mxCell>
