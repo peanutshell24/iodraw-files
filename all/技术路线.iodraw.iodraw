@@ -102,7 +102,7 @@
         <mxCell id="z8dSxOIZG4uBew8tEcZY-33" value="深度强化学习&lt;div&gt;决策模块设计&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="462.5" width="110" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="z8dSxOIZG4uBew8tEcZY-36" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="z8dSxOIZG4uBew8tEcZY-36" value="网络设计" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="550" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z8dSxOIZG4uBew8tEcZY-47" value="强化学习训练" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
