@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z8dSxOIZG4uBew8tEcZY-4" value="典型工况设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8dSxOIZG4uBew8tEcZY-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z8dSxOIZG4uBew8tEcZY-5" target="z8dSxOIZG4uBew8tEcZY-16">
           <mxGeometry relative="1" as="geometry" />
@@ -66,6 +66,9 @@
         </mxCell>
         <mxCell id="z8dSxOIZG4uBew8tEcZY-21" value="卡尔曼滤波状态估计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8dSxOIZG4uBew8tEcZY-33" value="典型工况设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
