@@ -114,8 +114,14 @@
         <mxCell id="z8dSxOIZG4uBew8tEcZY-47" value="强化学习训练" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="550" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="z8dSxOIZG4uBew8tEcZY-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z8dSxOIZG4uBew8tEcZY-48" target="z8dSxOIZG4uBew8tEcZY-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z8dSxOIZG4uBew8tEcZY-48" value="综合策略模型" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z8dSxOIZG4uBew8tEcZY-51" value="仿真验证" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="700" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
