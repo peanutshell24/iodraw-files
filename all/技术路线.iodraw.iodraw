@@ -85,7 +85,7 @@
             <Array as="points">
               <mxPoint x="800" y="463" />
               <mxPoint x="800" y="520" />
-              <mxPoint x="500" y="520" />
+              <mxPoint x="560" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -95,7 +95,8 @@
             <Array as="points">
               <mxPoint x="800" y="498" />
               <mxPoint x="800" y="520" />
-              <mxPoint x="640" y="520" />
+              <mxPoint x="720" y="520" />
+              <mxPoint x="720" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -103,10 +104,10 @@
           <mxGeometry x="740" y="462.5" width="110" height="35" as="geometry" />
         </mxCell>
         <mxCell id="z8dSxOIZG4uBew8tEcZY-36" value="网络设计" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="550" width="120" height="40" as="geometry" />
+          <mxGeometry x="500" y="550" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z8dSxOIZG4uBew8tEcZY-47" value="强化学习训练" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="550" width="120" height="40" as="geometry" />
+          <mxGeometry x="670" y="550" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
