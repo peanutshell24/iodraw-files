@@ -123,6 +123,9 @@
         <mxCell id="z8dSxOIZG4uBew8tEcZY-51" value="仿真验证、性能评估" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="700" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="z8dSxOIZG4uBew8tEcZY-53" value="仿真验证、性能评估" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="770" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
