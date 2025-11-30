@@ -1,6 +1,6 @@
 <mxfile host="" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="taR4UMKYB3T1ckf-t9WZ">
-    <mxGraphModel dx="350" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="286" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="z8dSxOIZG4uBew8tEcZY-1" value="需求分析与文献调研" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="120" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="z8dSxOIZG4uBew8tEcZY-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z8dSxOIZG4uBew8tEcZY-2" target="z8dSxOIZG4uBew8tEcZY-4">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z8dSxOIZG4uBew8tEcZY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="z8dSxOIZG4uBew8tEcZY-7">
           <mxGeometry relative="1" as="geometry">
