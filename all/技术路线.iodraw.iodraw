@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z8dSxOIZG4uBew8tEcZY-1" value="需求分析与文献调研" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="-70" width="120" height="50" as="geometry" />
+          <mxGeometry x="590" y="-70" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8dSxOIZG4uBew8tEcZY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z8dSxOIZG4uBew8tEcZY-2" target="z8dSxOIZG4uBew8tEcZY-4">
           <mxGeometry relative="1" as="geometry" />
@@ -17,10 +17,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z8dSxOIZG4uBew8tEcZY-2" value="仿真环境搭建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="10" width="120" height="40" as="geometry" />
+          <mxGeometry x="590" y="10" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z8dSxOIZG4uBew8tEcZY-4" value="典型工况设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8dSxOIZG4uBew8tEcZY-5" value="Simulink动力学模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="100" width="120" height="60" as="geometry" />
