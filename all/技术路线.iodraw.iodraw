@@ -13,10 +13,10 @@
         <mxCell id="z8dSxOIZG4uBew8tEcZY-2" value="仿真环境搭建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z8dSxOIZG4uBew8tEcZY-4" value="仿真环境搭建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z8dSxOIZG4uBew8tEcZY-4" value="典型工况设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z8dSxOIZG4uBew8tEcZY-5" value="仿真环境搭建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z8dSxOIZG4uBew8tEcZY-5" value="Simulink动力学模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8dSxOIZG4uBew8tEcZY-6" value="仿真环境搭建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
