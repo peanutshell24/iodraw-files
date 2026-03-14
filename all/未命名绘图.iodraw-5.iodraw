@@ -33,7 +33,7 @@
         <mxCell id="G1N7YslmoEhOHH9MYEGp-1" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.dc_source_1;direction=east;" vertex="1" parent="1">
           <mxGeometry x="80" y="210" width="70" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="G1N7YslmoEhOHH9MYEGp-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;R&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="G1N7YslmoEhOHH9MYEGp-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;R&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="195" y="128" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G1N7YslmoEhOHH9MYEGp-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;U&lt;sub&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;OC&lt;/font&gt;&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
