@@ -22,6 +22,14 @@
             <mxPoint x="132" y="244" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="G1N7YslmoEhOHH9MYEGp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.58;exitY=0.935;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=oval;endFill=0;" edge="1" parent="1" source="G1N7YslmoEhOHH9MYEGp-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="121" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="G1N7YslmoEhOHH9MYEGp-1" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.dc_source_1;direction=east;" vertex="1" parent="1">
           <mxGeometry x="80" y="210" width="70" height="75" as="geometry" />
         </mxCell>
